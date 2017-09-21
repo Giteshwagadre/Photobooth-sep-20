@@ -1,0 +1,112 @@
+Bootsnipp
+Tools 
+Snippets 
+New Snippet
+Profile 
+
+"slider with overlay"
+Bootstrap 3.3.0 Snippet by jaikesh yadav
+3.3.0 slider
+
+ 
+PreviewHTMLCSS    Fork this  6.7K   
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+.jk-slider{
+    width:100%;
+}
+/*          Hero Headers        */
+/********************************/
+.hero {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 3;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.75);
+      -webkit-transform: translate3d(-50%,-50%,0);
+         -moz-transform: translate3d(-50%,-50%,0);
+          -ms-transform: translate3d(-50%,-50%,0);
+           -o-transform: translate3d(-50%,-50%,0);
+              transform: translate3d(-50%,-50%,0);
+}
+.hero h1 {
+    font-size: 6em;    
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.fade-carousel .carousel-inner .item .hero {
+    opacity: 0;
+    -webkit-transition: 2s all ease-in-out .1s;
+       -moz-transition: 2s all ease-in-out .1s; 
+        -ms-transition: 2s all ease-in-out .1s; 
+         -o-transition: 2s all ease-in-out .1s; 
+            transition: 2s all ease-in-out .1s; 
+}
+.fade-carousel .carousel-inner .item.active .hero {
+    opacity: 1;
+Similar snippets: See More
+2.0K  0 
+Slider with white overlay
+
+
+6.4K  4 
+Bootstrap Navbar and Slider Overlay Text
+
+
+5.9K  8 
+Background Image Overlay
+
+
+5.3K  3 
+Background Overlay with text
+
+
+
+ 
+Comments:
+
+ 
+ 
+ Follow @bootsnipp  Tweet
+Bootsnipp.com © 2015 Dan's Tools | Site Privacy policy | Advertise | Featured snippets are MIT license.
